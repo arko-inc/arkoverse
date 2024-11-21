@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    @font-face {
+      font-family: 'arko';
+      src: url(src/assets/fonts/regular.otf) format('otf');
+    }
+  }
